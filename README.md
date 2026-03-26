@@ -1,4 +1,4 @@
-# Digital-StopWatch
+# Digital StopWatch
 
 #### This project was inspired from the IEEE Student Branch at UCI. This project consists of an ESP32, a Piezo Buzzer, two buttons and a TM1637 7-segment 4 digit display. This is a digital timer that starts from zero and counts up. One button starts and pauses, and the other button stops. If the stop button is pressed, then the start/pause button is pressed after, the timer resets. I have also created my own schematic in LTspice based off of the original schematic. Note that the Timer and TM1637 library are required.
 
