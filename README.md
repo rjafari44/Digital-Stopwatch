@@ -6,7 +6,7 @@
 
 ![Diagram](assets/stopwatch_circuit.png)
 
-## How to run
+## Usage
 I ran this code on a WeAct Studio ESP32-C3 board.
 
 If using the Arduino IDE, make sure the WeAct Studio ESP32-C3 board is the correct selected one and enable CDC on boot.
