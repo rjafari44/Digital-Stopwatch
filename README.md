@@ -4,7 +4,7 @@
 
 #### Circuit Schematic:
 
-![Diagram](assets/stopwatch_circuit.png)
+![Diagram](assets/stopwatch-circuit.png)
 
 ## Usage
 I ran this code on a WeAct Studio ESP32-C3 board.
